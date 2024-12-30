@@ -1,5 +1,11 @@
 # CODTECH-Task2
 
+**Name**: Vanga Harsha Vardhan.
+**Company**: CODTECH IT SOLUTIONS.
+**ID**: .
+**Domain**: UI/UX Design.
+**Duration**: December 2024 to March 2025.
+**Mentor**: Muzammil Ahmed.
 
 ## Overview
 
